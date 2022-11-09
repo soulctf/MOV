@@ -50,9 +50,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fef9d5072ecfeffc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra/Ring Theory/Euclidean Domain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra/Module Theory/Module Theory Basics.md",
+                "file": "Algebra/Ring Theory/Euclidean Domain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra/Module Theory/Module Theory Basics.md",
+                "file": "Algebra/Ring Theory/Euclidean Domain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra/Module Theory/Module Theory Basics.md"
+                "file": "Algebra/Ring Theory/Euclidean Domain.md"
               }
             }
           }
@@ -169,11 +181,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2aa3b583666cb804",
+  "active": "fef9d5072ecfeffc",
   "lastOpenFiles": [
+    "Algebra/Module Theory/Module Theory Basics.md",
+    "Algebra/Ring Theory/Euclidean Domain.md",
     "Algebra/Group Theory/Group Theory Basics.md",
     "Algebra/Ring Theory/Ring Theory Basics.md",
-    "Algebra/Module Theory/Module Theory Basics.md",
     "Untitled.md"
   ]
 }
