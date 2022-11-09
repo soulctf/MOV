@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra/Ring Theory/Euclidean Domain.md",
+                "file": "Algebra/Ring Theory/Euclidean Domain Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra/Ring Theory/Euclidean Domain.md",
+                "file": "Algebra/Ring Theory/Euclidean Domain Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra/Ring Theory/Euclidean Domain.md",
+                "file": "Algebra/Ring Theory/Euclidean Domain Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra/Ring Theory/Euclidean Domain.md"
+                "file": "Algebra/Ring Theory/Euclidean Domain Basics.md"
               }
             }
           }
@@ -184,7 +184,7 @@
   "active": "fef9d5072ecfeffc",
   "lastOpenFiles": [
     "Algebra/Module Theory/Module Theory Basics.md",
-    "Algebra/Ring Theory/Euclidean Domain.md",
+    "Algebra/Ring Theory/Euclidean Domain Basics.md",
     "Algebra/Group Theory/Group Theory Basics.md",
     "Algebra/Ring Theory/Ring Theory Basics.md",
     "Untitled.md"
