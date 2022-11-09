@@ -13,4 +13,10 @@ This allows us to generalize the idea of the euclidean algorithm to some integra
 
 ## Every Euclidean Domain is a Principle Domain (Proof)
 
-Let $I$ be an ideal of the euclidean domain $R$. If $I = (0)$ we are done. Else we can take $d$ to be any nonzero element in $I$ such that i
+Let $I$ be an ideal of the euclidean domain $R$. If $I = (0)$ we are done. Else we can take $d$ to be any nonzero element in $I$ such that $N(d)$ is minimal (norm is a map to the nonnegative integers so there is a minimum).
+
+$(d) \subseteq I$ as $d \in I$, so we just need to show the reverse inclusion.
+
+Let $a$ be an element of $I$. Since $R$ is an euclidean algorithm, we can write $a = qd + r$ with $N(r) < N(d)$. Then $r = a - qd$, and $r \in I$, so by construction of $d$, $N(r)$ must be $0$. Thus $a \in (d)$, and as $a$ was arbitrary, $I \in (d)$. 
+
+We now get $I = (d)$.
