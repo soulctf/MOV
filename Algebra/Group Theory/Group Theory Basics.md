@@ -10,4 +10,5 @@ $\exists e \in G, \space \text{such that } e \star a = a \star e, \space \forall
 
 **Inverse Elements:** 
 $\forall a \in G$, $\exists a^{-1} \in G$ such that $a \star a^{-1} = a^{-1}\star a = e$
-	
+
+## Subgroups 
