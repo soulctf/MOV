@@ -1,4 +1,3 @@
-
 ## Ring Definition
 
 A **ring** is a set $R$ with two binary operations, $+$ (addition) and $\ast$ (multiplication), satisfying the following three axioms
