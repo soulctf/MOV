@@ -7,6 +7,10 @@ Note there can be multiple norms for a given integral domain R.
 ## Euclidean Domain Definition
 
 An integral domain $R$ is called an euclidean domain if there is a norm $N$ such that for any two element $a, b \in R$ with $b \neq 0$, then there exists elements $q,r \in R$ such with $$a = qb + r \text{ with r = 0 or } N(r) < N(b)$$
-$q$ here is called the quotient and $r$ the remainder of the division
+$q$ here is called the quotient and $r$ the remainder of the division.
 
-This a
+This allows us to generalize the idea of the euclidean algorithm to some integral domains.
+
+## Every Euclidean Domain is a Principle Domain (Proof)
+
+Let $I$ be an ideal of the euclidean domain $R$. If $I = (0)$ we are done. Else we can take $d$ to be any nonzero element in $I$ such that i
