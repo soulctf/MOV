@@ -14,7 +14,7 @@ Proof: Plugging in r to the polynomial and then multiplying by $d^m$ we get the 
 3. $p^{2}$ does not divide $a_0$
 Then $f$ is irreducible in $\mathbb{Q}[X]$.
 
-## Extensions
+## Extensions Basics
 
 An **extension** of a field $F$ is a field containing $F$ as a subfield. This extension can be though of an $F$-algebra whose underlying ring is a field. An extension $E$ of $F$ is an $F$-vector space whose dimension is called the **degree** $|E:F|$  of $E$ over $F$. An extension is said to be **finite** (resp. **quadratic, cubic**, etc.) if its degree is finite.
 
@@ -29,3 +29,7 @@ First, $(e_il_j)_{1 \leq i \leq m, 1 \leq j \leq n}$ space L. Let $\gamma \in L$
 and because $(e_i)_{1 \leq i \leq m}$ spans $E$ as an $F$-vector space, $$\alpha_{j}= \sum\limits_{i}a_{ij}e_{j} \space \text{some } a_{ij} \in F.$$
 Putting these together we find that $$\gamma = \sum\limits_{i,j}a_{ij}e_{i}l_{j}$$
 Second, this basis is linearly independent as the sum of the $e_i$ terms can only be 0 if they are all 0, and then same for the $l_j$ terms.
+
+## Extension contd.
+
+An extension
