@@ -7,5 +7,3 @@ Addition and multiplication in this ringe works like traditional polynomials, ju
 ## Properties
 
 Let $R$ be an integral domain. Then
-1. $\text{degree }p\(x\) q\(x\) \eq $ $degree $p(x)  + $ degree $q(x)$ if $p(x), q(x)$ are nonzero
-2. 
