@@ -48,4 +48,4 @@ Second, this basis is linearly independent as the sum of the $e_i$ terms can onl
 
 - A polynomial is said to **split** in $F[X]$ is is a product of monic polynomials in $F[X]$.
 
-- A field is **algebraically closed** if all polynomials in it split 
+- A field is **algebraically closed** if all polynomials in it split in the field.
