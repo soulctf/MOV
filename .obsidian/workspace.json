@@ -81,8 +81,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra/Module Theory/Module Theory Basics.md",
-                "mode": "preview",
+                "file": "Algebra/Ring Theory/Polynomial Rings.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra/Module Theory/Module Theory Basics.md",
+                "file": "Algebra/Ring Theory/Polynomial Rings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra/Module Theory/Module Theory Basics.md",
+                "file": "Algebra/Ring Theory/Polynomial Rings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra/Module Theory/Module Theory Basics.md"
+                "file": "Algebra/Ring Theory/Polynomial Rings.md"
               }
             }
           }
@@ -207,11 +207,11 @@
   },
   "active": "cb30820e1bcd642b",
   "lastOpenFiles": [
+    "Algebra/Module Theory/Module Theory Basics.md",
     "Algebra/Ring Theory/Euclidean Domain Basics.md",
     "Algebra/Group Theory/Group Theory Basics.md",
     "Algebra/Ring Theory/Polynomial Rings.md",
     "Algebra/Ring Theory/Principle Ideal Domain Basics.md",
-    "Algebra/Module Theory/Module Theory Basics.md",
     "Algebra/Ring Theory/Ring Theory Basics.md",
     "Untitled.md"
   ]

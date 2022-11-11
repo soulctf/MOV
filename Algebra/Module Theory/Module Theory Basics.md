@@ -10,3 +10,4 @@ Let $R$ be a ring. An $R$-module is a set $M$ together with:
 If the ring is unital, we add that $1m = m$, for all $m \in M$
 
 We denote $M$ as a left or right module if the action of $R$ on $M$ is a left or right action only respectively.
+
