@@ -16,4 +16,8 @@ Then $f$ is irreducible in $\mathbb{Q}[X]$.
 
 ## Extensions
 
-An **extension** of a field $F$ is a field containing $F$ as a subfield. This extension can be though of an $F$-algebra whose underlying ring is a field. An extension $E$ of $F$ is an $F$-vector space whose dimension is called the degree $$ 
+An **extension** of a field $F$ is a field containing $F$ as a subfield. This extension can be though of an $F$-algebra whose underlying ring is a field. An extension $E$ of $F$ is an $F$-vector space whose dimension is called the **degree** $|E:F|$  of $E$ over $F$. An extension is said to be **finite** (resp. **quadratic, cubic**, etc.) if its degree is finite.
+
+When $E$ and $E'$ are extensions of $F$, an $F$-**homomorphism** $E \rightarrow E'$ is a homorphism $\phi : E \rightarrow E'$ such that $\phi(c) = c$ for all $c \in F$. An $F$-**isomorphism** is a bijective $F$-homomorphism
+
+**Proposition 1 (Multiplicity of Degrees):** Consider extensions $L \supset E\supset F$.  Then $L / F$ is of finite degree iff $L/E$ 
