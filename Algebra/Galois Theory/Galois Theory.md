@@ -6,4 +6,3 @@ Proof: Plugging in r to the polynomial and then multiplying by $d^m$ we get the 
 
 **Proposition 2 (Gauss's Lemma):** Let $f(X) \in Z[X]$. If $f(X)$ factors nontrivally in $\mathbb[X]$, then it factors nontrivally in $\mathbb{Z}[X]$
 
-Proof: 
