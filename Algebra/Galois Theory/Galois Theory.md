@@ -30,6 +30,12 @@ and because $(e_i)_{1 \leq i \leq m}$ spans $E$ as an $F$-vector space, $$\alpha
 Putting these together we find that $$\gamma = \sum\limits_{i,j}a_{ij}e_{i}l_{j}$$
 Second, this basis is linearly independent as the sum of the $e_i$ terms can only be 0 if they are all 0, and then same for the $l_j$ terms.
 
-## Extension contd.
+## Extension cont.
 
-An extension
+An extension $E$ of $F$ is called **simple** if $E = F(\alpha)$ for some $\alpha  \in E$.
+
+If $F$ and $F'$ are subfields of a field $E$, we call the composite of $F$ and $F'$ in $E$ to be the smallest subfield containing both. We denote it by $F \cdot F'$.
+
+Let $f$ be a monic irreducible polynomial in $F[X]$. We call $E$ a **stem field for f** if $E = F[\alpha]$ and $f(\alpha) = 0$.
+
+An element $\alpha$ is **transcendental over** $F$ if 
