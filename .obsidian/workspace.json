@@ -86,9 +86,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "35a4eb6fb04af850",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra/Galois Theory/Galois Theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra/Ring Theory/Polynomial Rings.md",
+                "file": "Algebra/Galois Theory/Galois Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra/Ring Theory/Polynomial Rings.md",
+                "file": "Algebra/Galois Theory/Galois Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra/Ring Theory/Polynomial Rings.md"
+                "file": "Algebra/Galois Theory/Galois Theory.md"
               }
             }
           }
@@ -205,12 +217,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cb30820e1bcd642b",
+  "active": "35a4eb6fb04af850",
   "lastOpenFiles": [
+    "Algebra/Ring Theory/Polynomial Rings.md",
     "Algebra/Module Theory/Module Theory Basics.md",
     "Algebra/Ring Theory/Euclidean Domain Basics.md",
     "Algebra/Group Theory/Group Theory Basics.md",
-    "Algebra/Ring Theory/Polynomial Rings.md",
     "Algebra/Ring Theory/Principle Ideal Domain Basics.md",
     "Algebra/Ring Theory/Ring Theory Basics.md",
     "Untitled.md"
