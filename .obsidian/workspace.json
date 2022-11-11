@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra/Galois Theory/Galois Theory.md",
+                "file": "Algebra/Galois Theory/Field Extensions Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra/Galois Theory/Galois Theory.md",
+                "file": "Algebra/Galois Theory/Field Extensions Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra/Galois Theory/Galois Theory.md",
+                "file": "Algebra/Galois Theory/Field Extensions Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra/Galois Theory/Galois Theory.md"
+                "file": "Algebra/Galois Theory/Field Extensions Basics.md"
               }
             }
           }
@@ -220,7 +220,7 @@
   "active": "35a4eb6fb04af850",
   "lastOpenFiles": [
     "Algebra/Ring Theory/Polynomial Rings.md",
-    "Algebra/Galois Theory/Galois Theory.md",
+    "Algebra/Galois Theory/Field Extensions Basics.md",
     "Algebra/Module Theory/Module Theory Basics.md",
     "Algebra/Ring Theory/Euclidean Domain Basics.md",
     "Algebra/Group Theory/Group Theory Basics.md",
