@@ -12,4 +12,8 @@ Proof: Plugging in r to the polynomial and then multiplying by $d^m$ we get the 
 1.  $p$ does not divide $a_m$
 2.  $p$ divides $a_{m-1}, ... , a_0$ 
 3. $p^{2}$ does not divide $a_0$
-Then $f$ is irreducible in $\mathbb{Q}[X]$
+Then $f$ is irreducible in $\mathbb{Q}[X]$.
+
+## Extensions
+
+An **extension** of a field $F$ is a field containing $F$ as a subfield. This extension can be though of an $F$-algebra whose underlying ring is a field. An extension $E$ of $F$ is an $F$-vector space whose dimension is called the degree $$ 
