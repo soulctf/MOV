@@ -20,4 +20,9 @@ An **extension** of a field $F$ is a field containing $F$ as a subfield. This ex
 
 When $E$ and $E'$ are extensions of $F$, an $F$-**homomorphism** $E \rightarrow E'$ is a homorphism $\phi : E \rightarrow E'$ such that $\phi(c) = c$ for all $c \in F$. An $F$-**isomorphism** is a bijective $F$-homomorphism
 
-**Proposition 1 (Multiplicity of Degrees):** Consider extensions $L \supset E\supset F$.  Then $L / F$ is of finite degree iff $L/E$ 
+**Proposition 1 (Multiplicity of Degrees):** Consider extensions $L \supset E\supset F$.  Then $L / F$ is of finite degree iff $L/E$ and $E/F$ are both of finite degree, in which case $$|L:F| = |L:E| \space |E:F|$$ 
+Proof: If $L$ is finite over $F$, then is is finite over $E$, and as $E$ is a subspace of a finite dimensional $F$-vector space, it is also finite-dimensional.
+
+Thus now assume that $L / E$ and $E / F$ are of finite degree, and let $(e_i)_{1 \leq i \leq m}$ be a basis for $E$ as an $F$-vector space and let $(l_i)_{1 \leq j \leq n}$ be a basis for $L$ as an $E$-vector space. We will now show that $(e_il_j)_{1 \leq i \leq m, 1 \leq j \leq n}$ is a basis for $L$ over $F$.
+
+First, $(e_il_j)_{1 \leq i \leq m, 1 \leq j \leq n}$ space L. Let $\gamma \in L$. Then, because $$
