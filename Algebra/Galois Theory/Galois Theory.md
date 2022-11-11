@@ -25,4 +25,7 @@ Proof: If $L$ is finite over $F$, then is is finite over $E$, and as $E$ is a su
 
 Thus now assume that $L / E$ and $E / F$ are of finite degree, and let $(e_i)_{1 \leq i \leq m}$ be a basis for $E$ as an $F$-vector space and let $(l_i)_{1 \leq j \leq n}$ be a basis for $L$ as an $E$-vector space. We will now show that $(e_il_j)_{1 \leq i \leq m, 1 \leq j \leq n}$ is a basis for $L$ over $F$.
 
-First, $(e_il_j)_{1 \leq i \leq m, 1 \leq j \leq n}$ space L. Let $\gamma \in L$. Then, because $$
+First, $(e_il_j)_{1 \leq i \leq m, 1 \leq j \leq n}$ space L. Let $\gamma \in L$. Then, because $(l_i)_{1 \leq j \leq n}$ space $L$ as an $E$-vector space, $$\gamma = \sum\limits_{j}\alpha_jl_{j} \space \text{ for some } \alpha_{j} \in F$$
+and because $(e_i)_{1 \leq i \leq m}$ spans $E$ as an $F$-vector space, $$\alpha_{j}= \sum\limits_{i}a_{ij}e_{j} \space \text{some } a_{ij} \in F.$$
+Putting these together we find that $$\gamma = \sum\limits_{i,j}a_{ij}e_{i}l_{j}$$
+Second, this basis is linearly independent as the sum of the $e_i$ terms can only be 0 if they are all 0, and then same for the $l_j$ terms.
