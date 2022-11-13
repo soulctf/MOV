@@ -11,7 +11,7 @@ $q$ here is called the quotient and $r$ the remainder of the division.
 
 This allows us to generalize the idea of the euclidean algorithm to some integral domains.
 
-## Every Euclidean Domain is a Principle Domain (Proof)
+## Every Euclidean Domain is a [[Principle Domain]] (Proof)
 
 Let $I$ be an ideal of the euclidean domain $R$. If $I = (0)$ we are done. Else we can take $d$ to be any nonzero element in $I$ such that $N(d)$ is minimal (norm is a map to the nonnegative integers so there is a minimum).
 
