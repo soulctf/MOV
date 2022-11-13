@@ -11,8 +11,12 @@
             "id": "e077a4189afe3325",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Algebra/Ring Theory/Principle Ideal Domains.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -111,8 +115,7 @@
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra/Ring Theory/Ring Theory Basics.md",
+                "file": "Algebra/Ring Theory/Principle Ideal Domains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra/Ring Theory/Ring Theory Basics.md",
+                "file": "Algebra/Ring Theory/Principle Ideal Domains.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra/Ring Theory/Ring Theory Basics.md"
+                "file": "Algebra/Ring Theory/Principle Ideal Domains.md"
               }
             }
           }
@@ -229,17 +232,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "35a4eb6fb04af850",
+  "active": "e077a4189afe3325",
   "lastOpenFiles": [
+    "All Euclidean Domains are Principle Ideal Domains.md",
     "Algebra/Ring Theory/Principle Ideal Domains.md",
+    "Algebra/Ring Theory/Ring Theory Basics.md",
     "Algebra/Ring Theory/Polynomial Rings.md",
     "Algebra/Ring Theory/Euclidean Domains.md",
-    "Principle Domain.md",
-    "Principle Domains.md",
     "Algebra/Galois Theory/Splitting Fields.md",
     "Algebra/Galois Theory/Field Extensions Basics.md",
-    "Algebra/Module Theory/Module Theory Basics.md",
-    "Algebra/Group Theory/Group Theory Basics.md",
-    "Algebra/Ring Theory/Ring Theory Basics.md"
+    "Principle Domain.md",
+    "Principle Domains.md",
+    "Algebra/Module Theory/Module Theory Basics.md"
   ]
 }

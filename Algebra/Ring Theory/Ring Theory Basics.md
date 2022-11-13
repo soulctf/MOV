@@ -9,3 +9,4 @@ A **ring** is a set $R$ with two binary operations, $+$ (addition) and $\ast$ (m
 If multiplication commutes for all elements in $R$, we call $R$ a commutative ring.
 
 If there is an identity element under multiplication, we call $R$ a unital ring.
+
