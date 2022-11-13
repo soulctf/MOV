@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "62fc8832709b4178",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra/Ring Theory/Principle Ideal Domains.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6897d8ddf4845bab",
             "type": "leaf",
             "state": {
@@ -115,7 +127,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,7 +212,7 @@
               "type": "outgoing-link",
               "state": {
                 "file": "Algebra/Ring Theory/Principle Ideal Domains.md",
-                "linksCollapsed": false,
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -225,14 +238,15 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "e077a4189afe3325",
+  "active": "62fc8832709b4178",
   "lastOpenFiles": [
     "Algebra/Galois Theory/Field Extensions Basics.md",
     "Algebra/Galois Theory/Splitting Fields.md",
