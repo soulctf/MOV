@@ -9,3 +9,7 @@ Note that [[#All Euclidean Domains are Principle Ideal Domains Principle Domains
 1. $d$ is the greatest common divisor of $a$ and $b$
 2. $d$ can be written as an $R$-*linear combination* of $a$ and $b$, i.e., these are elements $x, y \in R$ with $$d = ax + by$$
 3. $d$ is unique up to multiplication by a unit in $R$
+
+**Proposition 2:** Every nonzero prime ideal in a P.I.D is a maximal ideal
+
+Proof: Let $(p)$ be a nonzero prime ideal in a P.I.D $R$ and let $I = (m)$ be any ideal containing $(p)$. 
