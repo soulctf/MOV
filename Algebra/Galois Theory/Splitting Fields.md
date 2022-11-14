@@ -4,6 +4,6 @@ Let $f$ be a polynomial with coefficients in $F$. A field $E$ containing $F$ is 
 --- 
 **Proposition 1:** Let $F(\alpha)$ be a simple extension of $F$ and $\Omega$ a second extension of $F$
 1. Suppose $\alpha$ is transcendental over $F$. For every $F$-homomoprhism $\phi : F(\alpha) \rightarrow \Omega$, $\phi(\alpha)$ is transcendental over $F$ and the map $\phi \mapsto \phi(\alpha)$ defines a one-to-one correspondence.
-2. Suppose $\alpha$ is algebraic over $F$, and let $f(X)$ be its minimal polynomial. For every $F$-homomorphism $\phi : F[\alpha] \righattow \Omega$
- 
+2. Suppose $\alpha$ is algebraic over $F$, and let $f(X)$ be its minimal polynomial. For every $F$-homomorphism, $\phi : F[\alpha] \rightarrow \Omega, \phi(\alpha)$ is a root of $f(X)$ in $\Omega$, and the map $\phi \mapsto \phi(\alpha)$ defines a one-to-one correspondence. The number of such maps is the number of distinct roots of $f$ in $\Omega$
+  
 **Proposition 2:** Every polynomial $f \in F[X]$ has a splitting field $E_f$, and $$|E_{f}: F| \leq (deg \ f)!$$
