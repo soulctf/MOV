@@ -260,13 +260,13 @@
   },
   "active": "d1f80850af2ea927",
   "lastOpenFiles": [
-    "Algebra/Field Theory/Field.md",
     "Algebra/Galois Theory/Field Extensions.md",
+    "Algebra/Galois Theory/Splitting Fields.md",
+    "Algebra/Field Theory/Field.md",
     "Algebra/Ring Theory/Rings.md",
     "Algebra/Ring Theory/Principal Ideal Domains.md",
     "Algebra/Module Theory/Modules.md",
     "Algebra/Group Theory/Groups.md",
-    "Algebra/Galois Theory/Splitting Fields.md",
     "Algebra/Ring Theory/Euclidean Domains.md",
     "All Euclidean Domains are Principle Ideal Domains Principle Domains (Proof).md",
     "Algebra/Ring Theory/Polynomial Rings.md"
