@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra/Field Theory/Field.md",
+                "file": "Algebra/Galois Theory/Splitting Fields.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra/Field Theory/Field.md",
+                "file": "Algebra/Galois Theory/Splitting Fields.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra/Field Theory/Field.md",
+                "file": "Algebra/Galois Theory/Splitting Fields.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra/Field Theory/Field.md"
+                "file": "Algebra/Galois Theory/Splitting Fields.md"
               }
             }
           }
@@ -260,8 +260,8 @@
   },
   "active": "d1f80850af2ea927",
   "lastOpenFiles": [
-    "Algebra/Galois Theory/Field Extensions.md",
     "Algebra/Field Theory/Field.md",
+    "Algebra/Galois Theory/Field Extensions.md",
     "Algebra/Ring Theory/Rings.md",
     "Algebra/Ring Theory/Principal Ideal Domains.md",
     "Algebra/Module Theory/Modules.md",
