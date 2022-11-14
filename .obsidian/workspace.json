@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra/Ring Theory/Principal Ideal Domains.md",
+                "file": "Algebra/Galois Theory/Splitting Fields.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra/Ring Theory/Principal Ideal Domains.md",
+                "file": "Algebra/Galois Theory/Splitting Fields.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra/Ring Theory/Principal Ideal Domains.md",
+                "file": "Algebra/Galois Theory/Splitting Fields.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra/Ring Theory/Principal Ideal Domains.md"
+                "file": "Algebra/Galois Theory/Splitting Fields.md"
               }
             }
           }
@@ -248,9 +248,9 @@
   },
   "active": "62fc8832709b4178",
   "lastOpenFiles": [
+    "Algebra/Ring Theory/Principal Ideal Domains.md",
     "Algebra/Ring Theory/Ring Theory Basics.md",
     "Algebra/Ring Theory/Euclidean Domains.md",
-    "Algebra/Ring Theory/Principal Ideal Domains.md",
     "All Euclidean Domains are Principle Ideal Domains Principle Domains (Proof).md",
     "Algebra/Galois Theory/Field Extensions Basics.md",
     "Algebra/Galois Theory/Splitting Fields.md",
