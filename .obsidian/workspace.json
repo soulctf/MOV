@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra/Ring Theory/Rings.md",
+                "file": "Algebra/Galois Theory/Field Extensions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra/Ring Theory/Rings.md",
+                "file": "Algebra/Galois Theory/Field Extensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra/Ring Theory/Rings.md",
+                "file": "Algebra/Galois Theory/Field Extensions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra/Ring Theory/Rings.md"
+                "file": "Algebra/Galois Theory/Field Extensions.md"
               }
             }
           }
@@ -139,13 +139,13 @@
   },
   "active": "d1f80850af2ea927",
   "lastOpenFiles": [
-    "Algebra/Ring Theory/Euclidean Domains.md",
+    "Algebra/Galois Theory/Splitting Fields.md",
+    "Algebra/Field Theory/Field.md",
     "Algebra/Ring Theory/Rings.md",
+    "Algebra/Ring Theory/Euclidean Domains.md",
     "All Euclidean Domains are Principle Ideal Domains Principle Domains (Proof).md",
     "Algebra/Ring Theory/Principal Ideal Domains.md",
-    "Algebra/Galois Theory/Splitting Fields.md",
     "Algebra/Galois Theory/Field Extensions.md",
-    "Algebra/Field Theory/Field.md",
     "Algebra/Module Theory/Modules.md",
     "Algebra/Group Theory/Groups.md",
     "Algebra/Ring Theory/Polynomial Rings.md"
