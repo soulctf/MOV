@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra/Galois Theory/Splitting Fields.md",
+                "file": "Algebra/Galois Theory/Field Extensions.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1f80850af2ea927",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra/Field Theory/Field.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra/Group Theory/Group Theory Basics.md",
+                "file": "Algebra/Group Theory/Groups.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra/Ring Theory/Ring Theory Basics.md",
+                "file": "Algebra/Ring Theory/Rings.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra/Module Theory/Module Theory Basics.md",
+                "file": "Algebra/Module Theory/Modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra/Ring Theory/Ring Theory Basics.md",
+                "file": "Algebra/Ring Theory/Rings.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra/Galois Theory/Splitting Fields.md",
+                "file": "Algebra/Field Theory/Field.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra/Galois Theory/Splitting Fields.md",
+                "file": "Algebra/Field Theory/Field.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra/Galois Theory/Splitting Fields.md"
+                "file": "Algebra/Field Theory/Field.md"
               }
             }
           }
@@ -246,17 +258,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "62fc8832709b4178",
+  "active": "d1f80850af2ea927",
   "lastOpenFiles": [
+    "Algebra/Galois Theory/Field Extensions.md",
+    "Algebra/Field Theory/Field.md",
+    "Algebra/Ring Theory/Rings.md",
     "Algebra/Ring Theory/Principal Ideal Domains.md",
-    "Algebra/Ring Theory/Ring Theory Basics.md",
+    "Algebra/Module Theory/Modules.md",
+    "Algebra/Group Theory/Groups.md",
+    "Algebra/Galois Theory/Splitting Fields.md",
     "Algebra/Ring Theory/Euclidean Domains.md",
     "All Euclidean Domains are Principle Ideal Domains Principle Domains (Proof).md",
-    "Algebra/Galois Theory/Field Extensions Basics.md",
-    "Algebra/Galois Theory/Splitting Fields.md",
-    "Algebra/Group Theory/Group Theory Basics.md",
-    "Algebra/Ring Theory/Polynomial Rings.md",
-    "Algebra/Module Theory/Module Theory Basics.md",
-    "All Euclidean Domains are Principle Ideal Domains.md"
+    "Algebra/Ring Theory/Polynomial Rings.md"
   ]
 }
