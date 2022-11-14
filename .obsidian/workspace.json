@@ -4,143 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2911ce9058a149fc",
+        "id": "e1f4766a5d1a5eb7",
         "type": "tabs",
         "children": [
-          {
-            "id": "e077a4189afe3325",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra/Ring Theory/Euclidean Domains.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62fc8832709b4178",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra/Galois Theory/Field Extensions.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
           {
             "id": "d1f80850af2ea927",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra/Galois Theory/Splitting Fields.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6897d8ddf4845bab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra/Group Theory/Groups.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2796a59a088c0c4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Algebra/Ring Theory/Rings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2aa3b583666cb804",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra/Module Theory/Modules.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fef9d5072ecfeffc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra/Ring Theory/Euclidean Domains.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41d9d6801b7ff2a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra/Ring Theory/Principal Ideal Domains.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb30820e1bcd642b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra/Ring Theory/Polynomial Rings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35a4eb6fb04af850",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra/Ring Theory/Rings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a863009eb2f6ef6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra/Galois Theory/Splitting Fields.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra/Galois Theory/Splitting Fields.md",
+                "file": "Algebra/Ring Theory/Rings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra/Galois Theory/Splitting Fields.md",
+                "file": "Algebra/Ring Theory/Rings.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra/Galois Theory/Splitting Fields.md"
+                "file": "Algebra/Ring Theory/Rings.md"
               }
             }
           }
@@ -260,15 +139,15 @@
   },
   "active": "d1f80850af2ea927",
   "lastOpenFiles": [
-    "Algebra/Galois Theory/Field Extensions.md",
-    "Algebra/Galois Theory/Splitting Fields.md",
-    "Algebra/Field Theory/Field.md",
+    "Algebra/Ring Theory/Euclidean Domains.md",
     "Algebra/Ring Theory/Rings.md",
+    "All Euclidean Domains are Principle Ideal Domains Principle Domains (Proof).md",
     "Algebra/Ring Theory/Principal Ideal Domains.md",
+    "Algebra/Galois Theory/Splitting Fields.md",
+    "Algebra/Galois Theory/Field Extensions.md",
+    "Algebra/Field Theory/Field.md",
     "Algebra/Module Theory/Modules.md",
     "Algebra/Group Theory/Groups.md",
-    "Algebra/Ring Theory/Euclidean Domains.md",
-    "All Euclidean Domains are Principle Ideal Domains Principle Domains (Proof).md",
     "Algebra/Ring Theory/Polynomial Rings.md"
   ]
 }
