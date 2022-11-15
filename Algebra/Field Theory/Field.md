@@ -8,4 +8,6 @@ A **subfield** $S$ of $F$ is a subring of $F$ that is also a field. It inherits 
 
 **Lemma 1:** A nonzero commutative ring $R$ is a field if and only if it has no ideals others than $(0)$ and $(R)$.
 
-A **homomorphism of fields** is simply a homomorphism of rings. It is always injective a
+A **homomorphism of fields** is simply a homomorphism of rings. It is always injective as its kernel is a proper ideal (it doesn't contain 1), which must therefore be zero.
+
+An **$F$-algebra** (or an algebra over $F$), is a ring $R$ containing $F$ as a subring. A **homomorphism of $F$-algebras** $\alpha : R \rightarrow R'$ is a homomorphism of rings such that $\alpha(c) = c$ for every $c \in F$. An $F$
