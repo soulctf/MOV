@@ -3,7 +3,8 @@
     "principal",
     " $R$-*linea",
     "monic",
-    "subring"
+    "subring",
+    "coprime"
   ],
   "alwaysUpdateLinks": true
 }
