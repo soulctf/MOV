@@ -8,4 +8,15 @@ Consider the following set $$k(\mathfrak{f})\mathfrak{f} = \{
 		\delta \in k : v_\mathfrak{p}((\delta)) \geq v_\mathfrak{p}(\mathfrak{f}) \text{ for all } \mathfrak{p} \text{ that appear in } \mathfrak{f}
 \}$$
 1. $0 \in k(\mathfrak{f})\mathfrak{f}$ as $0 \in \mathfrak{f}$
-2. $k$ 
+2. $k(\mathfrak{f})\mathfrak{f}$ is closed under multiplication by $k(\mathfrak{f})$; in particular, it is closed under negation.
+3. $k(\mathfrak{f})\mathfrak{f}$ is closed under addition
+
+**Definition (Multiplication Congruence):** For any pair of nonzero field elements $\alpha, \beta \in k(\mathfrak{f})$, the condition $$
+\alpha = \beta \text{ mod}^{\times} \space \mathfrak{f}
+$$means 
+$$
+\beta - \alpha \in k(\mathfrak{f})\mathfrak{f}
+$$
+As $k(\mathfrak{f})\mathfrak{f}$ is closed under multiplication by $k(\mathfrak{f})$, if we have $\alpha, \beta, \gamma, \delta \in k(\mathfrak{f})$, $$
+\text{if } \alpha = \beta \text{ mod}^{\times} \space \mathfrak{f}
+$$
