@@ -18,5 +18,6 @@ $$
 \beta - \alpha \in k(\mathfrak{f})\mathfrak{f}
 $$
 As $k(\mathfrak{f})\mathfrak{f}$ is closed under multiplication by $k(\mathfrak{f})$, if we have $\alpha, \beta, \gamma, \delta \in k(\mathfrak{f})$, $$
-\text{if } \alpha = \beta \text{ mod}^{\times} \space \mathfrak{f}
+\text{if } \alpha = \beta \text{ mod}^{\times} \space \mathfrak{f} \text{ and } \gamma = \delta \text{ mod}^{\times} \space \mathfrak{f} \text{ then } \alpha\gamma = \beta\delta \text{ mod}^{\times} \space \mathfrak{f}
 $$
+Now consider the subgroup $k_\mathfrak{f}$ of $k(\mathfrak{f})$ that will give the desired quotient group $k(\mathfrak{f})/k_\mathfrak{f}$,$$k_\mathfrak{f} = 1 + k(\mathfrak{f})\mathfrak{f} = \{ \alpha \in k^{\times} : \alpha = 1 \text{ mod}^{\times} \space \mathfrak{f}\} \subset k(\mathfrak{f})$$
