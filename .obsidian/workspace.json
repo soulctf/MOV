@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class Field Theory/Hecke Characters.md",
+                "file": "Algebra/Module Theory/Modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9190bd1bb22b0dd3",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Class Field Theory/Hecke Characters.md",
+                "file": "Algebra/Module Theory/Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Class Field Theory/Hecke Characters.md",
+                "file": "Algebra/Module Theory/Modules.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class Field Theory/Hecke Characters.md"
+                "file": "Algebra/Module Theory/Modules.md"
               }
             }
           }
@@ -161,9 +160,9 @@
   },
   "active": "d65d8400a17c332f",
   "lastOpenFiles": [
+    "Class Field Theory/Hecke Characters.md",
     "Class Field Theory/Dirichlet Characters.md",
     "Algebra/Ring Theory/Principal Ideal Domains.md",
-    "Class Field Theory/Hecke Characters.md",
     "Algebra/Field Theory/Fields.md",
     "Algebra/Galois Theory/Field Extensions.md",
     "Algebra/Group Theory/Groups.md",
