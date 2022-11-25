@@ -11,6 +11,6 @@ Proof: Let $F_{1}= F[\alpha_1]$ be a stem field for some monic irreducible facto
 
 --- 
 
-If $f = a\prod_{i=1}^{r}(X- \alpha_{i})^{m_{i}}$ we say that $\alpha_i$ is a **multiple root** of $f$ if $m_{i}> 1$ else it is a **simple root**. If $f$ only has simple roots, than $gcd(f, f') = 1 \text{ in } F[X]$.
+If $f = a\prod_{i=1}^{r}(X- \alpha_{i})^{m_{i}}$ we say that $\alpha_i$ is a **multiple root** of $f$ if $m_{i}> 1$ else it is a **simple root**. If $f$ only has simple roots, then $gcd(f, f') = 1 \text{ in } F[X]$.
 
 A polynomial is **separable** if it is nonzero and only has simple roots. 
