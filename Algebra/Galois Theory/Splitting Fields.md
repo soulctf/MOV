@@ -8,3 +8,7 @@ Let $f$ be a polynomial with coefficients in $F$. A [[Fields|field]] $E$ contain
   
 **Proposition 2:** Every polynomial $f \in F[X]$ has a splitting field $E_f$, and $$|E_{f}: F| \leq (deg \ f)!$$
 Proof: Let $F_{1}= F[\alpha_1]$ be a stem field for some monic irreducible factor of $f$ in $F[X]$. Then $f(\alpha_{1)}= 0$, and we let $F_{2}= F_1[\alpha_2]$ be a stem field for some monic irreducible factor of $f(X)/(X-\alpha_1)$ in $F_1[X]$. Continuing in this fashion, we arrive at a splitting field, $E_f$. Let $n= \text{ deg } f$. Then $|F_{1} : F|$ = deg $g_{1} \leq n$, $|F_2:F_{1}|\leq n-1, ...,$ and so $|E_{f}: F| \leq n!$ 
+
+--- 
+
+If $f = a\prod_{i=1}^{r}(X- \alpha_{i})^{m_{i}}$  we say that $\alpha_i$ is a multiple root of $f$ if $m_{i}> 1$ else it is a simple root.

@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra/Module Theory/Modules.md",
+                "file": "Algebra/Galois Theory/Splitting Fields.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9190bd1bb22b0dd3",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra/Module Theory/Modules.md",
+                "file": "Algebra/Galois Theory/Splitting Fields.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra/Module Theory/Modules.md",
+                "file": "Algebra/Galois Theory/Splitting Fields.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra/Module Theory/Modules.md"
+                "file": "Algebra/Galois Theory/Splitting Fields.md"
               }
             }
           }
@@ -160,13 +161,13 @@
   },
   "active": "d65d8400a17c332f",
   "lastOpenFiles": [
+    "Algebra/Galois Theory/Field Extensions.md",
+    "Algebra/Module Theory/Modules.md",
     "Class Field Theory/Hecke Characters.md",
     "Class Field Theory/Dirichlet Characters.md",
     "Algebra/Ring Theory/Principal Ideal Domains.md",
     "Algebra/Field Theory/Fields.md",
-    "Algebra/Galois Theory/Field Extensions.md",
     "Algebra/Group Theory/Groups.md",
-    "Algebra/Module Theory/Modules.md",
     "Algebra/Ring Theory/Rings.md",
     "Algebra/Ring Theory/Polynomial Rings.md",
     "Algebra/Ring Theory/Euclidean Domains.md"

@@ -11,3 +11,5 @@ If the ring is unital, we add that $1m = m$, for all $m \in M$
 
 We denote $M$ as a left or right module if the action of $R$ on $M$ is a left or right action only respectively.
 
+A submodule $N$ of $M$ is a subgroup of $M$ such that for all $r \in R$, and $n \in N$ $rn \in N$.
+
