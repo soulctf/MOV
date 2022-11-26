@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra/Galois Theory/Splitting Fields.md",
+                "file": "Algebra/Ring Theory/Rings.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra/Galois Theory/Splitting Fields.md",
+                "file": "Algebra/Ring Theory/Rings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra/Galois Theory/Splitting Fields.md",
+                "file": "Algebra/Ring Theory/Rings.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra/Galois Theory/Splitting Fields.md"
+                "file": "Algebra/Ring Theory/Rings.md"
               }
             }
           }
@@ -160,15 +160,15 @@
   },
   "active": "d65d8400a17c332f",
   "lastOpenFiles": [
+    "Algebra/Ring Theory/Euclidean Domains.md",
+    "Algebra/Galois Theory/Splitting Fields.md",
     "Algebra/Galois Theory/Field Extensions.md",
     "Algebra/Field Theory/Fields.md",
-    "Algebra/Galois Theory/Splitting Fields.md",
     "Algebra/Module Theory/Modules.md",
     "Class Field Theory/Hecke Characters.md",
     "Class Field Theory/Dirichlet Characters.md",
     "Algebra/Ring Theory/Principal Ideal Domains.md",
     "Algebra/Group Theory/Groups.md",
-    "Algebra/Ring Theory/Rings.md",
-    "Algebra/Ring Theory/Polynomial Rings.md"
+    "Algebra/Ring Theory/Rings.md"
   ]
 }
