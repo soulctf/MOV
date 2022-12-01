@@ -25,4 +25,4 @@ Let $R$ be a [[Rings|ring]] and let $M$ and $N$ be $R$-modules
 	2. $\phi(rx) = r\phi(x)$, for all $x \in M, r\in R$
 2. We call an $R$-module homomorphism an isomorphism if it is injective and surjective. Modules are called isomorphic if there exists a $R$-module isomorphism between them.
 3. The kernel of $\phi$ is defined as $\ker\phi = \{ m \in M \mid \phi(m) = 0\}$ and the image of $\phi$ is defined as $\phi(M) = \{n \in N \mid n = \phi(m) \text{ for some } m \in M \}$    
-		1. Define $$
+4. Define $\mathrm{Hom}_{R}(M,N)$ to be the set of all module homomorphisms from $M$ to $N$. This is an abelian group as we define $$(\phi + \psi)(m) = \phi(m) + \psi(m)$$
