@@ -24,3 +24,4 @@ Let $R$ be a [[Rings|ring]] and let $M$ and $N$ be $R$-modules
 	1. $\phi(x+y) = \phi(x) + \phi(y)$, for all $x, y \in M$ and 
 	2. $\phi(rx) = r\phi(x)$, for all $x \in M, r\in R$
 2. We call an $R$-module homomorphism an isomorphism if it is injective and surjective. Modules are called isomorphic if there exists a $R$-module isomorphism between them.
+	1. The kernel of $\phi$ is defined as $ker \phi = \{ m \in M | \phi(m) = 0\}$ 
