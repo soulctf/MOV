@@ -21,18 +21,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class Field Theory/Hecke Characters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d65d8400a17c332f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Algebra/Module Theory/Modules.md",
                 "mode": "source",
                 "source": false
@@ -40,7 +28,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,17 +146,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d65d8400a17c332f",
+  "active": "3a4faf2ac45e1d05",
   "lastOpenFiles": [
     "Algebra/Ring Theory/Rings.md",
+    "Algebra/Module Theory/Modules.md",
+    "Class Field Theory/Hecke Characters.md",
+    "ring.md",
     "Algebra/Ring Theory/Euclidean Domains.md",
     "Algebra/Galois Theory/Splitting Fields.md",
     "Algebra/Galois Theory/Field Extensions.md",
     "Algebra/Field Theory/Fields.md",
-    "Algebra/Module Theory/Modules.md",
-    "Class Field Theory/Hecke Characters.md",
     "Class Field Theory/Dirichlet Characters.md",
-    "Algebra/Ring Theory/Principal Ideal Domains.md",
-    "Algebra/Group Theory/Groups.md"
+    "Algebra/Ring Theory/Principal Ideal Domains.md"
   ]
 }

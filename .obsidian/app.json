@@ -4,7 +4,8 @@
     " $R$-*linea",
     "monic",
     "subring",
-    "coprime"
+    "coprime",
+    "**$R$-modu"
   ],
   "alwaysUpdateLinks": true
 }

@@ -14,3 +14,11 @@ We denote $M$ as a left or right module if the action of $R$ on $M$ is a left or
 A submodule $N$ of $M$ is a subgroup of $M$ such that for all $r \in R$, and $n \in N$ $rn \in N$.
 
 Modules over a field $F$ and vector spaces over $F$ are the same, and submodules are subspaces. Every $R$-module $M$ has two submodules $M$ and $0$.
+
+
+
+## Quotient Modules and Module Homomorphisms
+
+Let $R$ be a [[Rings|ring]] and let $M$ and $N$ be $R$-modules
+	1. A map $\phi: M \rightarrow N$ is an **$R$-module homomorphism** if it respects the $R$-module structures of $M$ and $N$, i.e.
+	2. 
