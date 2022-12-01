@@ -5,7 +5,9 @@
     "monic",
     "subring",
     "coprime",
-    "**$R$-modu"
+    "**$R$-modu",
+    "urjective.",
+    "Homomorphisms"
   ],
   "alwaysUpdateLinks": true
 }
