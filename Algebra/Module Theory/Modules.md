@@ -13,4 +13,4 @@ We denote $M$ as a left or right module if the action of $R$ on $M$ is a left or
 
 A submodule $N$ of $M$ is a subgroup of $M$ such that for all $r \in R$, and $n \in N$ $rn \in N$.
 
-Modules over a field $F$ and vector spaces over $F$ are the same, and submodules are subspaces. Every 
+Modules over a field $F$ and vector spaces over $F$ are the same, and submodules are subspaces. Every $R$-module $M$ has two submodules $M$ and $0$.
