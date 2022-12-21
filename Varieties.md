@@ -1,6 +1,6 @@
 Let $\mathbb{A}^n$ be the affine space of $R[x_{1}, x_{2}, \dots , x_n]$ 
 
-If $f \in R[x_{1}, x_{2}, \dots , x_n]$, let $Z(f)$ be the set of points in $\mathbb{A}^n$ where $f$ vanishes.
+If $f \in R[x_{1}, x_{2}, \dots , x_n]$, let $Z(f)$ be the subset of $\mathbb{A}^n$ where $f$ vanishes.
 
 Define the ***affine algebraic set*** $Z(S)$ to be the set of points that vanish on the polynomials in the set $S = \{f_{1}, f_{2}, \dots \}$ 
 - If $f \in R[x, y] \backslash R$  (non-constant), $Z(f)$ is called the ***affine plane curve*** (2D curve, can be drawn on a plane)
@@ -18,5 +18,3 @@ Affine algebraic sets are the closed subsets of a topology on $\mathbb{A}^n$.
 - If we have a family of subsets $\{S_{\alpha}\} \subset R[x_{1}, \dots, x_n]$, then $\cap_{\alpha}Z(S_{\alpha})= Z(\cup_{\alpha}S_\alpha)$    
 - $S, T \subset R[x_{1}, \dots, x_{n}] \implies Z(S) \cup Z(T) = Z(S * T)$ where $S*T = \{f*g \mid f \in S, g \in T\}$ 
 Arbitrary intersection and finite union of affine algebraic sets are affine algebraic sets.
-
-The empty set and $\mathbb{A}^n$ are open as they are the complement of $Z(1)$ and $$
