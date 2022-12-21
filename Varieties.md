@@ -15,5 +15,6 @@ Define the ***affine algebraic set*** $Z(S)$ to be the set of points that vanish
 We want to define a topology over our affine algebraic sets for convenient language.
 
 Affine algebraic sets are the closed subsets of a topology on $\mathbb{A}^n$.
-- If we have a family of subsets $\{S_{\alpha}\} \subset R[x_{1}, \dots, x_n]$, then $\cap_{\alpha}Z(S_{\alpha)}= Z(\cup_{\alpha}S_\alpha)$    
-- $S, T \subset R[x_{1}, \dots, x_{n}] \implies Z(S) \cup Z(T) = Z(S \star T)$ 
+- If we have a family of subsets $\{S_{\alpha}\} \subset R[x_{1}, \dots, x_n]$, then $\cap_{\alpha}Z(S_{\alpha})= Z(\cup_{\alpha}S_\alpha)$    
+- $S, T \subset R[x_{1}, \dots, x_{n}] \implies Z(S) \cup Z(T) = Z(S * T)$ where $S*T = \{f*g \mid f \in S, g \in T\}$ 
+Arbitrary intersection and finite union of affine algebraic sets are affine algebraic sets.
