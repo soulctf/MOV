@@ -19,4 +19,4 @@ Affine algebraic sets are the closed subsets of a topology on $\mathbb{A}^n$.
 - $S, T \subset R[x_{1}, \dots, x_{n}] \implies Z(S) \cup Z(T) = Z(S * T)$ where $S*T = \{f*g \mid f \in S, g \in T\}$ 
 Arbitrary intersection and finite union of affine algebraic sets are affine algebraic sets.
 
-The empty set and $R[x_{1}, \dots, x_{n}]$ are open as they are the complement of 
+The empty set and $\mathbb{A}^n$ are open as they are the complement of $Z(1)$ and $$
